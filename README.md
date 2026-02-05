@@ -7,3 +7,6 @@ A Random Forest regression model was implemented to better capture nonlinear rel
 results and clear insights, revealing that average player count and user ratings have the strongest correlation with sales, followed by release year. The 
 repository includes the full analysis notebook, the dataset, and documentation of earlier modeling attempts for transparency. This project demonstrates a
 machine learning workflow, from exploratory analysis and model selection to evaluation and interpretation of results.
+
+Unfortunately, the original data sheet I used, game_datset.csv, was deleted off of Kaggle and has been lost. As a result, the code can;t be run, however 
+the results can still be viewed in the "Analysis" file.
